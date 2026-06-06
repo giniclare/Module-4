@@ -27,6 +27,7 @@ print(count)
 ```
 
 ## Output
+<img width="222" height="127" alt="image" src="https://github.com/user-attachments/assets/653d83bd-1fa9-40c4-8911-f85ec7cc626f" />
 
 ## Result
 Thus, the Python program to count the number of lines in the file story.txt that do not start with the alphabet 'T' was successfully executed, and the desired output was obtained.
