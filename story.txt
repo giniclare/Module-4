@@ -1,0 +1,5 @@
+This is a story.
+The cat is sleeping.
+Hello World.
+Today is sunny.
+Python is easy.
